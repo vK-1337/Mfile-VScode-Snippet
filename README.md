@@ -1,1 +1,1 @@
-# Mfile_vscode_snippet
+# Mfile VScode snippet
