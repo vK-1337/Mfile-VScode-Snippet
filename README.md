@@ -13,7 +13,8 @@ To use this snippet :
     3. Click on User Snippets.
     4. In the search bar search for Makefile.
     5. Just copy and paste the content of Makefile.json
-    6. Create a new Makefile and try to write "mfile" and press Enter.
-    7. Enjoy ! 🙂
+    6. Save and close the json file.
+    7. Create a new Makefile and try to write "mfile" and press Enter.
+    8. Enjoy ! 🙂
 
 If you want to change the shortcut keyword, you juste need to modify the "prefix" line. (line 3 of the makefile.json).
