@@ -1,6 +1,6 @@
 # Mfile VScode snippet 42
 
-I created this little snippet to avoid writing again my Makefile every new project.
+I created this little snippet to avoid writing again my Makefile every new project at 42 School.
 
 Just by writing mfile in an empty Makefile you will write this template, you just need to replace the comments and adjust the spaces in the box to get a fancy makefile. 🙂
 
