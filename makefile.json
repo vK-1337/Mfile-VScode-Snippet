@@ -2,9 +2,9 @@
 	"Preparing Makefile": {
 		"prefix": "mfile",
 		"body": [
-			"SRC = #INSERT ALL .c FILES HERE",
+			"SRCS = #INSERT ALL .c FILES HERE",
 			"",
-			"OBJS = $(SRC:.c=.o) ./libft/libft.a",
+			"OBJS = $(SRCS:.c=.o) ./libft/libft.a",
 			"",
 			"NAME = #INSERT NAME OF .a HERE",
 			"",
