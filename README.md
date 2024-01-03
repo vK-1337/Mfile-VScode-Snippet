@@ -6,7 +6,7 @@ Just by writing mfile in an empty Makefile you will write this template, you jus
 
 Notice that bonus rule is not included, and that the libft is included. You may need to correct the path of your libft if its not in a directory name libft inside the current directory.
 
-To add this snippet :
+To use this snippet :
 
     1. Open VScode.
     2. Click on Manage at the bottom left of your screen.
