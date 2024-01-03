@@ -1,4 +1,4 @@
-# Mfile VScode snippet
+# Mfile VScode snippet 42
 
 I created this little snippet to avoid writing again my Makefile every new project.
 
