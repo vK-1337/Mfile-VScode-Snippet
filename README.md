@@ -2,7 +2,7 @@
 
 I created this little snippet to avoid writing again my Makefile every new project.
 
-Just by writing mfile in an empty Makefile you will write this template, you just need to replace the comments and adjust the spaces in the box to get a fancy makefile :D
+Just by writing mfile in an empty Makefile you will write this template, you just need to replace the comments and adjust the spaces in the box to get a fancy makefile. 🙂
 
 Notice that bonus rule is not included, and that the libft is included. You may need to correct the path of your libft if its not in a directory name libft inside the current directory.
 
